@@ -39,7 +39,7 @@ int main() {
     map += L"################";
     while (1) {
         for (int x=0; x < nSccreenWidth; x++) {
-            return 1;
+            cout << "hello workld";
         }
     }
 
